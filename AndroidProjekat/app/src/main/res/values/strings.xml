@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jelena\'s FoodBook</string>
+    <string name="enter_email">Please enter email</string>
+    <string name="enter_password">Please enter your password</string>
+    <string name="enter_phone">Please enter your phone number</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_password_length">Password should be atleast 6 characters long</string>
+
+</resources>
